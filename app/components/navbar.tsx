@@ -12,9 +12,9 @@ const Navbar = () => {
                     <Link href="/programs">Programs</Link>
                     <Link href="/impact">Impact</Link>
                     <Link href="/budget">Budget</Link>
-                    <Link href="/team">Team</Link>
                     <Link href="/assessment">Assessment</Link>
                     <Link href="/student">Student</Link>
+                    <Link href="/team">Team</Link>
                 </div>
             </div>
         </nav>

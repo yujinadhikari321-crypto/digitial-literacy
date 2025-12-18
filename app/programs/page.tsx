@@ -1,7 +1,7 @@
 import Image from "next/image";
-import tra from "../assets/tra-nguyen-TVSRWmnW8Us-unsplash.jpg"
-import broke from "../assets/brooke-cagle-g1Kr4Ozfoac-unsplash.jpg"
-import andrew from "../assets/andrew-neel-cckf4TsHAuw-unsplash.jpg"
+import tra from "../assets/teacher.png"
+import broke from "../assets/student.png"
+import andrew from "../assets/administration.png"
 
 const page = () => {
     return (
