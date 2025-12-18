@@ -45,9 +45,22 @@ const page = () => {
 
             </main>
 
-            <footer className="bg-gray-900 text-white text-center py-10">
-                © 2025 Digital Bridge
-            </footer>
+            <section className="bg-slate-900 text-white py-20">
+                <div className="max-w-4xl mx-auto px-4 text-center">
+                    <h2 className="text-3xl font-bold mb-6">Support Our Mission</h2>
+                    <p className="text-xl text-slate-300 mb-8">
+                        Help us reach our goal of 67,000 NPR for refurbished laptops and connectivity.
+                    </p>
+
+                    <div className="bg-white/10 rounded-lg p-6 mb-8">
+                        <p className="text-slate-200">
+                            Students gain confidence, schools adopt ICT practices, and inequality between
+                            urban and rural education is reduced.
+                        </p>
+                    </div>
+
+                </div>
+            </section>
         </div>
     )
 }
